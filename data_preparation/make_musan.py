@@ -2,6 +2,9 @@
 # Copyright 2015   David Snyder
 # Apache 2.0.
 #
+# Copyright 2018   Wissem Allouchi
+# Swisscom AG
+
 # This file is meant to be invoked by make_musan.sh.
 
 import os, sys

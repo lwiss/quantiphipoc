@@ -3,6 +3,7 @@
 # Copyright 2016 SpeechLab at FEE CTU Prague (Author: Petr Mizera)
 # Apache 2.0
 # Note: This file was inspired by vystadial_cz/s5/local/create_LMs.sh
+# Copyright 2018 DNA group at Swisscom (Author: Wissem Allouchi)
 
 . ./cmd.sh
 #. ./path.sh

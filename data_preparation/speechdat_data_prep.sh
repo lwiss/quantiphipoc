@@ -2,6 +2,7 @@
 
 # Copyright 2016 SpeechLab at FEE CTU Prague (Author: Jiri Fiala, Petr Mizera)
 # Apache 2.0
+# Copyright 2018 Swisscom AG DNA group (Author: Wissem Allouchi)
 
 . ./cmd.sh
 . ./path.sh

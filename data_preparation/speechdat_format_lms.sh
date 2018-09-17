@@ -3,12 +3,13 @@
 # Copyright Johns Hopkins University (Author: Daniel Povey) 2012
 #           Guoguo Chen 2014
 #           2016  CTU in Prague (modification: Petr Mizera)
+#           2018 Swisscom AG (modification: Wissem Allouchi)
 # Apache 2.0
 
 lang_suffix=
 lm_srcdir=
 
-nameLM="4gr_swisscom_all_IVR_sentences2_mixedw_sc_alltext_pr3_7_noswisscomdev2"
+nameLM=
 
 
 echo "$0 $@"  # Print the command line for logging
