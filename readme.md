@@ -4,6 +4,7 @@
 
 ### Raw databases:
 We have uploaded 3 different databases to GCP bucket and they are structured as follow:
+
     1- SpeechDat High German database (in the original format as it was purchased)
 	    - DE-FixNetSpeechDat: Was gathered through the fixed network
 	    - DE-Mobil1DE-1000: Was gathered through the mobile network
